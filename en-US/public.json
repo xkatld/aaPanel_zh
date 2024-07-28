@@ -1,0 +1,126 @@
+{
+	"Public": {
+		"Name": "aaPanel",
+		"Site": "站点",
+		"Help": "帮助",
+		"Type": "类型",
+		"All": "全部",
+		"SelectAll": "全选",
+		"MoreTips": "更多配置, 点击查看",
+		"tableRow": {
+			"Username": "用户名",
+			"Password": "密码"
+		},
+		"Time": {
+			"Today": "今天",
+			"Yesterday": "昨天",
+			"7Days": "最近7天",
+			"30Days": "最近30天"
+		},
+		"Punctuation": {
+			"Colon": "：",
+			"Comma": "，"
+		},
+		"Unit": {
+			"Item": "",
+			"Time": "次",
+			"Seconds": "秒",
+			"Num": "",
+			"Day": "天",
+			"Hour": "小时",
+			"Minute": "分钟"
+		},
+		"Btn": {
+			"Add": "添加",
+			"Save": "保存",
+			"Config": "配置",
+			"Refresh": "刷新",
+			"Set": "设置",
+			"Del": "删除",
+			"Edit": "编辑",
+			"Modify": "修改",
+			"Cancel": "取消",
+			"Confirm": "确认",
+			"ClearHit": "清除点击次数",
+			"Submit": "提交",
+			"Apply": "应用",
+			"Search": "搜索",
+			"Help": "帮助",
+			"LearnMore": "了解更多",
+			"Details": "详情",
+			"Tutorial": "教程",
+			"Sync": "同步",
+			"Click": "查看",
+			"Deploy": "部署",
+			"Conf": "配置",
+			"More": "更多",
+			"Install": "安装",
+			"Uninstall": "卸载",
+			"Setup": "设置",
+			"Import": "导入",
+			"Preview": "预览",
+			"Finish": "完成",
+			"Delete": "删除",
+			"Copy": "复制"
+		},
+		"Batch": {
+			"Del": "批量删除",
+			"ChooseDel": "请选择要删除的项目"
+		},
+		"Confirm": {
+			"Title": "提示",
+			"Enable": "启用",
+			"Disable": "关闭"
+		},
+		"Form": {
+			"Ps": "备注",
+			"PsPlace": "请输入备注"
+		},
+		"Table": {
+			"Ps": "备注",
+			"Status": "状态",
+			"Action": "操作",
+			"Operation": "操作",
+			"NotAction": "无法操作",
+			"Enable": "启用",
+			"Disable": "禁用",
+			"Total": "总计 {total}"
+		},
+		"SiteCheckbox": {
+			"Search": "请输入站点名称",
+			"All": "全选",
+			"NotAll": "不全选",
+			"CurSite": "当前站点"
+		},
+		"Status": {
+			"Enable": "已启用",
+			"Running": "运行中",
+			"Stopped": "已停止",
+			"Paused": "已暂停",
+			"TurnOn": "开启",
+			"TurnOff": "关闭",
+			"Start": "启动",
+			"start": "启动",
+			"Stop": "停止",
+			"stop": "停止",
+			"Pause": "暂停",
+			"Unpause": "恢复",
+			"Restart": "重启",
+			"Kill": "强制停止",
+			"Reload": "重载"
+		},
+		"Api": {
+			"Load": "{0}, 请稍等..."
+		},
+		"Terminal": {
+			"index_3": "连接已断开, 按回车将尝试重新连接!",
+			"index_4": "正在尝试重新连接!"
+		},
+		"Pay": {
+			"index_1": "免费",
+			"index_2": "续费",
+			"index_3": "立即购买",
+			"index_4": "到期: "
+		}
+	}
+}
