@@ -1,150 +1,150 @@
 {
-	"WP": {
-		"index_1": "克隆",
-		"index_2": "克隆网站",
-		"index_3": "在WP中管理",
-		"index_4": "请输入域名",
-		"index_5": "添加Wordpress",
-		"index_6": "服务器未安装, ",
-		"index_7": "安装PHP",
-		"index_8": "安装Mysql",
-		"index_9": "将从当前版本{0}更新到最新版本{1}, 是否继续?",
-		"index_10": "确定要删除此插件吗?",
-		"index_11": "确定要删除此主题吗?",
-		"index_12": "至少需要1个主题处于激活状态, 请先激活其他主题",
-		"index_13": "未设置",
-		"Add": {
-			"Title": "添加站点 - 支持批量建站",
-			"Tips": "5.6.0+版本自动开启自动版本更新",
-			"Awp": "允许弱密码",
-			"CacheNginx": "启用缓存, 目前仅支持nginx",
-			"EnableWPS": "启用WPS-Hide-Login",
-			"WPSHL": "WPS-Hide-Login",
-			"Login": "更改管理员登录url",
-			"Redirection": "重定向url",
-			"index_1": "创建站点",
-			"index_2": "从备份创建",
-			"import_1": "备份类型",
-			"import_2": "本地",
-			"import_3": "Plesk或CPanel",
-			"import_4": "备份文件路径",
-			"import_5": "子目录, 根目录留空",
-			"import_6": "请输入备份文件路径"
-		},
-		"Back": {
-			"File": "仅文件",
-			"DB": "仅数据库",
-			"Full": "完整备份"
-		},
-		"Migrate": {
-			"Title": "迁移网站",
-			"content": "即将迁移网站, 您确定要继续吗",
-			"Tips": {
-				"1": "迁移后您将能够在WP Toolkit中管理您的wordpress网站, 但将无法继续在[网站]中管理您的wordpress网站!",
-				"2": "网站中没有可迁移的wordpress",
-				"3": "您确定要这样做吗?",
-				"4": "* 迁移后无法将wordpress网站恢复到[网站]"
-			}
-		},
-		"Integrity": {
-			"Title": "检查WordPress完整性",
-			"index_1": "如果您怀疑此站点被恶意软件感染, 可以通过检查WordPress核心文件的校验和来验证其完整性.",
-			"index_2": "验证校验和",
-			"index_3": "重新安装WP",
-			"index_4": "这将重新安装WordPress核心文件而不会丢失站点内容. 建议您在重新安装之前备份您的网站.",
-			"index_5": "如果校验和无法匹配, 您可以快速重新安装WordPress核心文件而不会影响您的站点内容."
-		},
-		"TableRow": {
-			"Caching": "缓存(nginx)",
-			"WP": "WordPress",
-			"Setting": "WP设置",
-			"Protection": "防护",
-			"Integrity": "完整性检查",
-			"Plugin": "插件",
-			"Theme": "主题",
-			"Active": "激活",
-			"Autoupdate": "自动更新",
-			"Update": "更新",
-			"Uninstall": "卸载"
-		},
-		"Config": {
-			"LoginUrl": "登录URL",
-			"Upgrade": "升级",
-			"Clear": "清除",
-			"Generate": "生成",
-			"EnableWPS": "启用WPS-Hide-Login",
-			"Save": "保存",
-			"Protection": {
-				"Title": "安全工具",
-				"Setup": "设置",
-				"Blocked": "今日阻止修改",
-				"Requests": "今日阻止恶意请求"
-			},
-			"RedirectionTips": {
-				"0": "通过更改登录URL并阻止未登录用户访问wp-login.php页面和wp-admin目录来保护您的网站.",
-				"1": "当有人在未登录的情况下尝试访问wp-login.php页面和wp-admin目录时, 将重定向到该URL."
-			}
-		},
-		"Label": {
-			"RePassword": "重置密码",
-			"EmailAddress": "邮箱地址",
-			"Language": "网站语言",
-			"WPS": "WPS-Hide-Login",
-			"Setup": "设置完成",
-			"FileProtection": "文件防护",
-			"Application": "Nginx WAF",
-			"Permission": "文件权限强化",
-			"WPAdmin": "wp-admin防护",
-			"Changed": "已更改为",
-			"Hotlink": "防盗链"
-		},
-		"Placeholder": {
-			"Password": "请输入新密码"
-		},
-		"RulesError": {
-			"LastVersion": "已经是最新版本了",
-			"NewVersion": "有新版本",
-			"NewVersionLast": "可供更新"
-		},
-		"clone": {
-			"index_1": "源站点",
-			"index_2": "目标站点",
-			"index_3": "创建子域名",
-			"index_4": "创建新域名",
-			"index_5": "新域名",
-			"index_6": "请输入子域名",
-			"index_7": "请输入新域名",
-			"index_8": "克隆路径",
-			"index_9": "空的克隆路径意味着克隆到根目录",
-			"index_10": "Fastcgi缓存"
-		},
-		"api": {
-			"index_1": "正在克隆站点, 请稍等...",
-			"index_2": "正在添加站点, 请稍等...",
-			"tamper_1": "正在设置状态, 请稍等...",
-			"tamper_2": "正在添加, 请稍等...",
-			"tamper_3": "正在删除, 请稍等...",
-			"tamper_4": "正在添加白名单, 请稍等...",
-			"tamper_5": "正在编辑备注, 请稍等...",
-			"tamper_6": "正在删除白名单, 请稍等...",
-			"tamper_7": "正在创建网站, 请稍等...",
-			"tamper_8": "处理中, 请稍等...",
-			"tamper_9": "正在备份, 请稍等...",
-			"tamper_10": "正在恢复, 请稍等...",
-			"tamper_11": "正在迁移, 请稍等...",
-			"tamper_12": "正在检查完整性, 请稍等...",
-			"tamper_13": "正在重新安装, 请稍等...",
-			"tamper_14": "正在卸载, 请稍等...",
-			"tamper_15": "正在更新, 请稍等..."
-		},
-		"Transition": {
-			"index_1": "WordPress Toolkit 介绍",
-			"index_2": "一键安装WordPress",
-			"index_3": "特殊安全防护",
-			"index_4": "完整备份",
-			"index_5": "Fastcgi缓存",
-			"index_6": "更多功能正在开发中, 期待您的反馈",
-			"index_7": "立即购买"
-		}
-	}
+    "WP": {
+        "index_1": "Clone",
+        "index_2": "Clone site",
+        "index_3": "Manage in WP",
+        "index_4": "Please enter domain",
+        "index_5": "Add Wordpress",
+        "index_6": "Server is not installed, ",
+        "index_7": "Install PHP",
+        "index_8": "Install Mysql",
+        "index_9": "Will update from current version {0} to latest version {1}, continue?",
+        "index_10": "Are you sure to delete this plugin?",
+        "index_11": "Are you sure to delete this theme?",
+        "index_12": "At least 1 theme is active, activate another theme before disable it",
+        "index_13": "Not Set",
+        "Add": {
+            "Title": "Add site - Support batch site building",
+            "Tips": "Versions 5.6.0+ automatically turn on automatic version updates",
+            "Awp": "Allow weak passwords",
+            "CacheNginx": "Enable caching, currently only supports nginx",
+            "EnableWPS": "Enable WPS-Hide-Login",
+            "WPSHL": "WPS-Hide-Login",
+            "Login": "Change Admin Login url",
+            "Redirection": "Redirection url",
+            "index_1": "Create site",
+            "index_2": "Create from backup",
+            "import_1": "Backup Type",
+            "import_2": "Local",
+            "import_3": "Plesk or CPanel",
+            "import_4": "Backup File Path",
+            "import_5": "Subdirectory, blank in the root directory",
+            "import_6": "Please enter backup file path"
+        },
+        "Back": {
+            "File": "File Only",
+            "DB": "DB Only",
+            "Full": "Full Backup"
+        },
+        "Migrate": {
+            "Title": "Migrate Site",
+            "content": "About to migrate sites, are you sure you want to continue",
+            "Tips": {
+                "1": "After the migration you will be able to manage your wordpress sites in WP Toolkit, but you will not be able to continue to manage your wordpress sites in [Website]!",
+                "2": "There are no wordpress that can be migrated from the Website",
+                "3": "Are you sure about this?",
+                "4": "* Unable to restore wordpress website to [Website] after migration"
+            }
+        },
+        "Integrity": {
+            "Title": "Check WordPress Integrity",
+            "index_1": "If you suspect that this site is infected by malware, check the integrity of WordPress corefiles by verifying them against their reference checksums from wordpress.org.",
+            "index_2": "Verify Checksums",
+            "index_3": "Reinstall WP",
+            "index_4": "This will reinstall the WordPress core files without losing site content. It is recommended that you back up your website before reinstalling.",
+            "index_5": "If checksums fail to match, you can quickly reinstall WordPress core files without affecting your site content."
+        },
+        "TableRow": {
+            "Caching": "Caching(nginx)",
+            "WP": "WordPress",
+            "Setting": "WP Setting",
+            "Protection": "Protection",
+            "Integrity": "Integrity check",
+            "Plugin": "Plugin",
+            "Theme": "Theme",
+            "Active": "Active",
+            "Autoupdate": "Auto update",
+            "Update": "Update",
+            "Uninstall": "Uninstall"
+        },
+        "Config": {
+            "LoginUrl": "Login URL",
+            "Upgrade": "Upgrade",
+            "Clear": "Clear",
+            "Generate": "Generate",
+            "EnableWPS": "Enable WPS-Hide-Login",
+            "Save": "Save",
+            "Protection": {
+                "Title": "Security Tools",
+                "Setup": "Setup",
+                "Blocked": "modifications blocked today",
+                "Requests": "malicious requests blocked today"
+            },
+            "RedirectionTips": {
+                "0": "Protect your website by changing the login URL and preventing access to the wp-login.php page and the wp-admin directory to non-connected people.",
+                "1": "Redirect URL when someone tries to access the wp-login.php page and the wp-admin directory while not logged in."
+            }
+        },
+        "Label": {
+            "RePassword": "Reset password",
+            "EmailAddress": "Email address",
+            "Language": "Website Language",
+            "WPS": "WPS-Hide-Login",
+            "Setup": "Setup Complete",
+            "FileProtection": "File Protection",
+            "Application": "Nginx WAF",
+            "Permission": "File permission hardening",
+            "WPAdmin": "wp-admin Protection",
+            "Changed": "Changed to",
+            "Hotlink": "Hotlink Protection"
+        },
+        "Placeholder": {
+            "Password": "Please enter a new password"
+        },
+        "RulesError": {
+            "LastVersion": "is already the latest version",
+            "NewVersion": "There is a new version",
+            "NewVersionLast": "available for update"
+        },
+        "clone": {
+            "index_1": "Source site",
+            "index_2": "Target site",
+            "index_3": "Create subdomain",
+            "index_4": "Create new domain",
+            "index_5": "New domain",
+            "index_6": "Please enter subdomain",
+            "index_7": "Please enter new domain",
+            "index_8": "Clone path",
+            "index_9": "Empty clone path means clone in the root directory",
+            "index_10": "Fastcgi cache"
+        },
+        "api": {
+            "index_1": "Site being cloned, please wait...",
+            "index_2": "Adding site, please wait...",
+            "tamper_1": "Setting status, please wait...",
+            "tamper_2": "Adding, please wait...",
+            "tamper_3": "Deleting, please wait...",
+            "tamper_4": "Adding whitelist, please wait...",
+            "tamper_5": "Editing remark, please wait...",
+            "tamper_6": "Deleting whitelist, please wait...",
+            "tamper_7": "Creating website, please wait...",
+            "tamper_8": "Processing, please wait...",
+            "tamper_9": "Backing up, please wait...",
+            "tamper_10": "Restoring, please wait...",
+            "tamper_11": "Migrating, please wait...",
+            "tamper_12": "Integrity checking, please wait...",
+            "tamper_13": "Reinstallation in progress, please wait...",
+            "tamper_14": "Uninstalling, please wait...",
+            "tamper_15": "Updating, please wait..."
+        },
+        "Transition": {
+            "index_1": "WordPress Toolkit introdution",
+            "index_2": "OneClick Install WordPress",
+            "index_3": "Special safety protection",
+            "index_4": "Full Backup",
+            "index_5": "Fastcgi Cache",
+            "index_6": "More features are under development, looking forward to your feedback",
+            "index_7": "Buy now"
+        }
+    }
 }

@@ -1,16 +1,16 @@
 {
-	"Mail": {
-		"Email": {
-			"index_1": "邮箱地址",
-			"index_2": "发件人",
-			"index_3": "主题",
-			"index_4": "时间",
-			"index_5": "查看",
-			"index_6": "垃圾邮件",
-			"index_7": "查看邮件 [{0}]",
-			"index_8": "标记为垃圾邮件",
-			"index_9": "确定要将此消息标记为垃圾邮件吗?",
-			"index_10": "取消标记"
-		}
-	}
+    "Mail": {
+        "Email": {
+            "index_1": "Email Address",
+            "index_2": "Sender",
+            "index_3": "Theme",
+            "index_4": "Time",
+            "index_5": "View",
+            "index_6": "Spam",
+            "index_7": "Check Mail [{0}]",
+            "index_8": "Mark spam",
+            "index_9": "Are you sure you want to mark this message as spam?",
+            "index_10": "Unmark"
+        }
+    }
 }
